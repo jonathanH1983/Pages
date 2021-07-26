@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure--qrepk9wn$i=3fl&t3&_dotj6jw$jn83=aws0$xzwavg)%_2q*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['PagesApp-env.eba-2pnfzjbg.us-west-2.elasticbeanstalk.com']
+#ALLOWED_HOSTS = []
 
 
 # Application definition
